@@ -1,4 +1,20 @@
 # Getting Started with Create React App
+The project was created by Md abdullah alamin.
+
+
+## Available Scripts
+
+This project i use  html ,css,react router,bootstrap framwork,react bootstraf and create many components,
+ ## ...  Project structure
+1. Uses css framework
+2. header uses 4 router
+3. uses footer
+4. uses 404 page
+5. many services and detail services 
+6. created fake data json
+7. 
+## .... Netlify live link
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
